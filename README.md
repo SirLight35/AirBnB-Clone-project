@@ -59,7 +59,29 @@ Product Owner: Defines features and requirements.
 Scrum Master: Facilitates agile processes.
 
 UI Component Patterns
+Color Styles
 
+Primary: #FF5A5F
+
+Secondary: #008489
+
+Background: #FFFFFF
+
+Text: #222222
+
+Secondary Text: #717171
+
+ Typography
+
+Font Family: Circular
+
+Font Weights & Sizes:
+
+Headings: Bold (700) — 24px–32px
+
+Body Text: Medium (500) — 16px
+
+Secondary Text: Book (400) — 14px
 Navbar: Logo, search bar, user navigation, and responsive menu.
 
 Property Card: Property image, details, and favorite button.
