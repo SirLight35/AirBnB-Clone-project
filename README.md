@@ -58,7 +58,7 @@ Product Owner: Defines features and requirements.
 
 Scrum Master: Facilitates agile processes.
 
-UI Component Patterns
+["UI/UX Design Planning"]
 Color Styles
 
 Primary: #FF5A5F
